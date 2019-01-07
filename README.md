@@ -1,0 +1,2 @@
+# danimandache
+TEMA_2_MANDACHE=DANIEL_424C
